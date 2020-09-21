@@ -1,0 +1,18 @@
+D:\ПРОГИ\GenALG2\GenALG2\bin\Debug\GenALG2.exe.config
+D:\ПРОГИ\GenALG2\GenALG2\obj\Debug\GenALG2.csprojResolveAssemblyReference.cache
+D:\ПРОГИ\GenALG2\GenALG2\bin\Debug\GenALG2.exe
+D:\ПРОГИ\GenALG2\GenALG2\bin\Debug\GenALG2.pdb
+D:\ПРОГИ\GenALG2\GenALG2\obj\Debug\GenALG2.exe
+D:\ПРОГИ\GenALG2\GenALG2\obj\Debug\GenALG2.pdb
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.exe.config
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.exe
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.pdb
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.csprojResolveAssemblyReference.cache
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.exe
+E:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.pdb
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.exe.config
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.exe
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.pdb
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.exe
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\bin\Debug\GenALG2.pdb
+F:\Лабораторные работы 2019\Генетические алгоритмы\GenALG2\GenALG2\obj\Debug\GenALG2.csprojResolveAssemblyReference.cache
